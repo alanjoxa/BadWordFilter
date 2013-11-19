@@ -1,0 +1,6 @@
+Bad Word Filter
+
+It need two files in badwords.txt and wordlist.txt in its location.
+The badwords.txt will be the source of badwords to be removed from the words in the wordlist.txt
+
+After running the filter.js (node filter.js in its location), the filtered words will be available in corectedwords.txt and the removed words will be available in removedwords.txt
