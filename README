@@ -1,4 +1,4 @@
-<b>Bad Word Filter<b>
+Bad Word Filter
 
 It need two files in badwords.txt and wordlist.txt in its location.
 The badwords.txt will be the source of badwords to be removed from the words in the wordlist.txt
